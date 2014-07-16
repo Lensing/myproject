@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" hash="3153458322">
+    <data-source source="LOCAL" name="Rails depot_v: development" uuid="5e344bbb-cf19-4646-b73e-c034c57a774e">
+      <driver-ref>mysql</driver-ref>
+      <jdbc-driver>com.mysql.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:mysql://127.0.0.1/depot_dev</jdbc-url>
+      <user-name>root</user-name>
+      <user-password>df9bdf98df99df9edf9edf99df98df9b</user-password>
+      <libraries />
+    </data-source>
+    <data-source source="LOCAL" name="Rails depot_v: test" uuid="fe069263-1959-42ed-b2eb-d804f5ba079c">
+      <driver-ref>mysql</driver-ref>
+      <jdbc-driver>com.mysql.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:mysql://127.0.0.1/depot_tst</jdbc-url>
+      <user-name>root</user-name>
+      <user-password>df9bdf98df99df9edf9edf99df98df9b</user-password>
+      <libraries />
+    </data-source>
+    <data-source source="LOCAL" name="Rails depot_v: production" uuid="9889f319-4abc-477a-86dc-502d5be10503">
+      <driver-ref>mysql</driver-ref>
+      <jdbc-driver>com.mysql.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:mysql://127.0.0.1/depot_prd</jdbc-url>
+      <user-name>root</user-name>
+      <user-password>df9bdf98df99df9edf9edf99df98df9b</user-password>
+      <libraries />
+    </data-source>
+  </component>
+</project>
+
