@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" hash="2933198736">
+    <data-source source="LOCAL" name="Rails webapp1: development" uuid="8683a7f7-c803-4ce1-bf30-12091b8c6738">
+      <driver-ref>mysql</driver-ref>
+      <jdbc-driver>com.mysql.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:mysql://127.0.0.1/webapp1_dev</jdbc-url>
+      <user-name>root</user-name>
+      <user-password>df9bdf98df99df9edf9edf99df98df9b</user-password>
+      <libraries />
+    </data-source>
+    <data-source source="LOCAL" name="Rails webapp1: test" uuid="6ffe9901-2f75-40f6-94ab-b878c518cc96">
+      <driver-ref>mysql</driver-ref>
+      <jdbc-driver>com.mysql.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:mysql://127.0.0.1/webapp1_test</jdbc-url>
+      <user-name>root</user-name>
+      <user-password>df9bdf98df99df9edf9edf99df98df9b</user-password>
+      <libraries />
+    </data-source>
+    <data-source source="LOCAL" name="Rails webapp1: production" uuid="13a1475e-240d-4108-b4a1-7a9964d85819">
+      <driver-ref>mysql</driver-ref>
+      <jdbc-driver>com.mysql.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:mysql://127.0.0.1/webapp1_prd</jdbc-url>
+      <user-name>root</user-name>
+      <user-password>df9bdf98df99df9edf9edf99df98df9b</user-password>
+      <libraries />
+    </data-source>
+  </component>
+</project>
+
